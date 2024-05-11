@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - numpy
+  - matplotlib
+  - astropy
+  - pandas
+  - requests
+  - bs4
+  - shutil
+  - subprocess
