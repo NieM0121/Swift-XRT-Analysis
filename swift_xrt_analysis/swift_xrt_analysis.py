@@ -556,7 +556,7 @@ class FilterProcEvt:
 
 class DetermineRegionPC:
         """
-        Determine the pile-up range of target source for PC mode.
+        Determine the pile-up range of target source for PC mode.You need to move the psf.cod file in the model folder to your Target directory.
         Args:
                 target_path: Target file path.
         """
