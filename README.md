@@ -1,4 +1,4 @@
-# swift_xrt_analysis
+# Swift-XRT-Analysis
 This is a small `python` package to analyse observation data from the SWIFT/XRT telescope.
 
 This project is based on HEASoft, and the main FTOOLs used are: XSELECT, XIMAGE, XSPEC etc.
@@ -14,4 +14,4 @@ The data processing threads given of SWIFT/XRT by UK Swift Science Data Centre:
 This project only performed simple processing of Swift/XRT observation data, and the results obtained were not completely consistent with the results given by the UK Swift Science Data Centre.
 
 ## Usage
-The intended usage is shown in `xrt_analysis_process.ipynb` shows how to process data of SWIFT/XRT by using this project.
+The intended usage is shown in `xrt_analysis_processflow.ipynb` shows how to process data of SWIFT/XRT by using this project.
